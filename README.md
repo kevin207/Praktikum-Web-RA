@@ -1,1 +1,5 @@
-# Isikan identitas dasar disini
+Nama	: Kevin Tanuwijaya
+
+NIM 	: 119140207 
+
+Kelas 	: RD
